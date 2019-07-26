@@ -55,8 +55,9 @@ body{
 #ce{
     text-align: center;
 }
-#li{
-    line-height: 30%;
+#ce p{
+   
+    display: none;
 }
 .row{
     margin-bottom: 20px;
