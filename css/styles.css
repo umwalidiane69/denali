@@ -62,24 +62,27 @@ body{
 .row{
     margin-bottom: 20px;
 }
-#sp{
+ #sp{
     display: flex;
     flex-direction: row;
     justify-content:center;
-    margin-left: 10px;
-}
-#ve{
+    margin-left: 20px;
+    margin-top: 50px;
+}/*
+#ve,#va,#vi,#vu,#hi,#hu,#he,#ha,#TE{
     position: absolute;
     text-align: center;
-
+    display: none;
+   color: white;
+   font-size: 30px;
+   text-decoration-line: underline;
+   text-decoration: bold;
+   padding: 10px;
+   background-color: black;
 }
 #ver1{
     position: relative;
     overflow: hidden;
-}
-.row img:hover{
-    opacity: 0.5;
-    transition: 2s;
 }
 #nano{
     background-image: url("../diane/3.jpg");
@@ -95,24 +98,36 @@ body{
     
    
 }
-/* #one{
-   
-    margin-left: 23%;
+
+ #bnt{
     
+    margin-left: 67%;
+    background-color: aqua;
+    margin-top: 30px;
 } 
- #two{
-    
-    margin-left: 52%;
-} */
 #three{
-    width: 53%;
+    width: 63%;
     height: 250px;
     /* margin-left: 300px; */
     margin-top: 8px;
     padding-bottom: 200px;
+    margin-left: 30px;
 }
 #one,#two{
-    width: 25%;
+    width: 30%;
     height: 50px;
-  
+  margin-left: 30px;
 }
+#cent{
+    position: relative;
+    margin-left: 300px;
+}
+h3{text-align: center;
+    font-size: 35px;
+   padding-top: 40px;
+    margin-bottom: 40px;
+}
+#foot{
+    text-align: center;
+    padding: 40px;
+} */
