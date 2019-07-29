@@ -68,7 +68,7 @@ body{
     justify-content:center;
     margin-left: 20px;
     margin-top: 50px;
-}/*
+}
 #ve,#va,#vi,#vu,#hi,#hu,#he,#ha,#TE{
     position: absolute;
     text-align: center;
@@ -108,7 +108,7 @@ body{
 #three{
     width: 63%;
     height: 250px;
-    /* margin-left: 300px; */
+     margin-left: 300px;
     margin-top: 8px;
     padding-bottom: 200px;
     margin-left: 30px;
@@ -130,4 +130,4 @@ h3{text-align: center;
 #foot{
     text-align: center;
     padding: 40px;
-} */
+} 
